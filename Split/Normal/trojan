@@ -1,2 +1,5 @@
-trojan://bVUMJoUwGYvDLGbfZyt52ynMi@free-nl-2.undef.network:443?path=%2Ff2fc2a1f&security=tls&host=free-nl-2.undef.network&type=ws&sni=free-nl-2.undef.network#NL🇳🇱 | free-nl-2.undef.network-443 | 124.24ms
-trojan://auto@162.159.135.232:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#RELAY🚩 | e9464f45.trauma-2r4.pages.dev-8443 | 50.12ms
+trojan://tg-dns68@162.159.153.210:443?security=tls&type=ws&sni=vip.putata.eu.org&path=%2F%3Fed%3D2560&host=vip.putata.eu.org#RELAY🚩 | vip.putata.eu.org-443 | 125.03ms
+trojan://tg-dns68@162.159.153.192:443?security=tls&type=ws&sni=vip.putata.eu.org&path=%2F%3Fed%3D2560&host=vip.putata.eu.org#RELAY🚩 | vip.putata.eu.org-443 | 6.3ms
+trojan://cassiusvpn@104.17.147.22:2087?security=tls&sni=telegram----cassiusvpn----1465456489741231221154648949456456456.bongo40.workers.dev&type=ws&host=telegram----cassiusvpn----1465456489741231221154648949456456456.bongo40.workers.dev&path=%2F%3Fed%3D2560#RELAY🚩 | telegram----cassiusvpn----1465456489741231221154648949456456456.bongo40.workers.dev-2087 | 27.01ms
+trojan://bVUMJoUwGYvDLGbfZyt52ynMi@free-nl-2.undef.network:443?path=%2Ff2fc2a1f&security=tls&host=free-nl-2.undef.network&type=ws&sni=free-nl-2.undef.network#NL🇳🇱 | free-nl-2.undef.network-443 | 217.93ms
+trojan://auto@162.159.135.232:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#RELAY🚩 | e9464f45.trauma-2r4.pages.dev-8443 | 27.82ms
