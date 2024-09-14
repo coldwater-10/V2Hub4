@@ -1,7 +1,7 @@
-trojan://tg-dns68@162.159.153.233:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#RELAY🚩 | vip.putata.eu.org-443 | 565.13ms
-trojan://e305e0b8-55ae-4873-bf52-18ac5863e85e@104.26.15.85:443?security=tls&sni=meta.maliva.space&type=splithttp&host=meta.maliva.space&path=%2Fmma8pvU8i7t6qjYdga&headerType=http&fp=chrome&alpn=h3#RELAY🚩 | meta.maliva.space-443 | 17.65ms
-trojan://b12f4be0-e874-568e-954f-942dcc3a67e9@172.67.204.84:2096?security=tls&sni=trojan.trojan0.woRkeRS.deV&type=ws&host=trojan.trojan0.woRkeRS.deV&path=%2Ftrojan-ws%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#RELAY🚩 | trojan.trojan0.woRkeRS.deV-2096 | 18.66ms
-trojan://b12f4be0-e874-568e-954f-942dcc3a67e9@104.21.69.44:2096?security=tls&sni=trojan.trojan0.woRkeRS.deV&type=ws&host=trojan.trojan0.woRkeRS.deV&path=%2Ftrojan-ws%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#RELAY🚩 | trojan.trojan0.woRkeRS.deV-2096 | 2.05ms
-trojan://8f635e20-71c9-11ef-aaf7-1239d0255272@104.17.147.22:443?sni=usa.test3.net&type=ws&host=usa.test3.net&path=%2Fhowdy#US🇺🇸 | usa.test3.net-443 | 118.76ms
-trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.18:443?path=6b777a91&security=tls&host=avianrecruit.com&type=ws&sni=avianrecruit.com#RELAY🚩 | avianrecruit.com-443 | 26.35ms
-trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@172.67.131.245:443?security=tls&sni=series-v1.samanehha.co&type=tcp&allowInsecure=1#RELAY🚩 | series-v1.samanehha.co-443 | 46.42ms
+trojan://tg-dns68@162.159.153.233:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#RELAY🚩 | vip.putata.eu.org-443 | 5124.86ms
+trojan://e305e0b8-55ae-4873-bf52-18ac5863e85e@104.26.15.85:443?security=tls&sni=meta.maliva.space&type=splithttp&host=meta.maliva.space&path=%2Fmma8pvU8i7t6qjYdga&headerType=http&fp=chrome&alpn=h3#RELAY🚩 | meta.maliva.space-443 | 162.71ms
+trojan://b12f4be0-e874-568e-954f-942dcc3a67e9@172.67.204.84:2096?security=tls&sni=trojan.trojan0.woRkeRS.deV&type=ws&host=trojan.trojan0.woRkeRS.deV&path=%2Ftrojan-ws%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#RELAY🚩 | trojan.trojan0.woRkeRS.deV-2096 | 81.72ms
+trojan://b12f4be0-e874-568e-954f-942dcc3a67e9@104.21.69.44:2096?security=tls&sni=trojan.trojan0.woRkeRS.deV&type=ws&host=trojan.trojan0.woRkeRS.deV&path=%2Ftrojan-ws%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#RELAY🚩 | trojan.trojan0.woRkeRS.deV-2096 | 5.93ms
+trojan://8f635e20-71c9-11ef-aaf7-1239d0255272@104.17.147.22:443?sni=usa.test3.net&type=ws&host=usa.test3.net&path=%2Fhowdy#US🇺🇸 | usa.test3.net-443 | 63.72ms
+trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.18:443?path=6b777a91&security=tls&host=avianrecruit.com&type=ws&sni=avianrecruit.com#RELAY🚩 | avianrecruit.com-443 | 70.14ms
+trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@172.67.131.245:443?security=tls&sni=series-v1.samanehha.co&type=tcp&allowInsecure=1#RELAY🚩 | series-v1.samanehha.co-443 | 40.85ms
