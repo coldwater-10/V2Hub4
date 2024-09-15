@@ -1,3 +1,3 @@
-trojan://tg-dns68@162.159.153.233:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#RELAY🚩 | vip.putata.eu.org-443 | 108.16ms
-trojan://e305e0b8-55ae-4873-bf52-18ac5863e85e@104.26.15.85:443?security=tls&sni=meta.maliva.space&type=splithttp&host=meta.maliva.space&path=%2Fmma8pvU8i7t6qjYdga&headerType=http&fp=chrome&alpn=h3#RELAY🚩 | meta.maliva.space-443 | 87.02ms
-trojan://8f635e20-71c9-11ef-aaf7-1239d0255272@104.17.147.22:443?sni=usa.test3.net&type=ws&host=usa.test3.net&path=%2Fhowdy#US🇺🇸 | usa.test3.net-443 | 68.22ms
+trojan://tg-dns68@162.159.153.233:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#RELAY🚩 | vip.putata.eu.org-443 | 254.39ms
+trojan://e305e0b8-55ae-4873-bf52-18ac5863e85e@104.26.15.85:443?security=tls&sni=meta.maliva.space&type=splithttp&host=meta.maliva.space&path=%2Fmma8pvU8i7t6qjYdga&headerType=http&fp=chrome&alpn=h3#RELAY🚩 | meta.maliva.space-443 | 17.61ms
+trojan://8f635e20-71c9-11ef-aaf7-1239d0255272@104.17.147.22:443?sni=usa.test3.net&type=ws&host=usa.test3.net&path=%2Fhowdy#US🇺🇸 | usa.test3.net-443 | 94.7ms
