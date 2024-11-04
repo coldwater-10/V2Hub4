@@ -12,4 +12,6 @@ $subscription_urls = [
   "https://raw.githubusercontent.com/jahangirGH/sublinks/main/Fragsubhiddify.txt#Irancpi_Hiddify_Fragment",
   "https://raw.githubusercontent.com/Surfboardv2ray/Subs/main/Raw",
   "https://raw.githubusercontent.com/Surfboardv2ray/Subs/main/Realm",
+  "https://raw.githubusercontent.com/freedomnet25500/cfsub/refs/heads/main/freesub",
+  "https://raw.githubusercontent.com/freedomnet25500/freesub/refs/heads/main/yousefsegaro",
 ];
